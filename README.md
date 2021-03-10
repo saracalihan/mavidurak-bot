@@ -17,5 +17,5 @@ mv example.env .env
 npm start
 ```
 # Bot Commands
-`@help`: bot send all comands to you with DM.
+`sudo help`: bot send all comands to you with DM.
 # Licanse
